@@ -26,7 +26,6 @@ Este es un libro en desarrollo sobre rendimiento y optimización en Go.
 
 Hay diferentes maneras de contribuir:
 
-   1) agregar o resumir los recursos en el fichero [TODO](TODO)
    2) agregar puntos o nuevos temas a cubrir
    3) completar las secciones en el libro escribiendo el contenido
 

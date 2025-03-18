@@ -14,7 +14,6 @@ const config = {
     tsconfigRootDir: __dirname,
     projectService: true,
   },
-  overrides: [
     // Template files don't have reliable type information
     {
       files: ["./cli/template/**/*.{ts,tsx}"],

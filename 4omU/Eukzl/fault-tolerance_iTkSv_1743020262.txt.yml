@@ -11,4 +11,3 @@ go:
   - tip
 env:
   global:
-    - GORACE="halt_on_error=1"

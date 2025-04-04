@@ -168,7 +168,6 @@ concat_lines() {
     tr -s '\r\n' ' ' < "$1"
   fi
 }
-
 log() {
   if [ "$MVNW_VERBOSE" = true ]; then
     printf '%s\n' "$1"

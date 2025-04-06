@@ -9,7 +9,6 @@ tmp_dir = ".tmp"
   delay = 1000
   exclude_dir = []
   exclude_file = []
-  exclude_regex = ["_test.go"]
   exclude_unchanged = false
   follow_symlink = false
   full_bin = "./dist/portainer --log-level=DEBUG"

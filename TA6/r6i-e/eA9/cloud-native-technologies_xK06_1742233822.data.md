@@ -21,7 +21,6 @@ Hacking the Cloud uses Material for MkDocs and the Awesome Pages Plugin. To make
 ```
 docker build -t mkdocs-material .
 ```
-
 To run a test server for your local environment you can run the Docker container (ensuring you expose a port and provide the local directory).
 
 ```

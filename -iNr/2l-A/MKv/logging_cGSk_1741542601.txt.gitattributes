@@ -4,7 +4,6 @@
 /phpstan* export-ignore
 /phpunit.xml.dist export-ignore
 /_config.yml export-ignore
-/UPGRADE.md export-ignore
 /.editorconfig export-ignore
 /favicon.ico export-ignore
 /logo.jpg export-ignore
